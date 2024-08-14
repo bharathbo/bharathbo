@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="https://drive.google.com/uc?export=view&id=1U4xxabLT0idCYwqUQreJnhkrqQtCouKL" alt="MasterHead" style="width:800px;height:500px;">
+    <img src="https://drive.google.com/uc?export=view&id=1U4xxabLT0idCYwqUQreJnhkrqQtCouKL" alt="MasterHead" style="width:700px;height:400px;">
 </a>
 
 # 👋 Hi, I'm Bharath N!
