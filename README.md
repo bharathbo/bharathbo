@@ -3,7 +3,9 @@
 </a>
 
 # 👋 Hi, I'm Bharath N!
-I'm a full-stack developer with a strong skill set in front-end and back-end technologies. I love building responsive web applications and learning new technologies every day. 
+I'm a full-stack developer with a strong skill set in front-end and back-end technologies.Dedicated and highly skilled IT professional with a Master's in Computer Applications (MCA) and a strong
+foundation in full-stack development and Data Structure. Proficient in Java, JavaScript, HTML, CSS, and SQL,
+with a proven ability to design and implement robust and scalable software solutions.  I love building responsive web applications and learning new technologies every day. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-n-166255217/)
