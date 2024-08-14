@@ -1,4 +1,6 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1U4xxabLT0idCYwqUQreJnhkrqQtCouKL)]
+<a href="https://rishavchanda.io">
+    <img src="https://drive.google.com/uc?export=view&id=1U4xxabLT0idCYwqUQreJnhkrqQtCouKL" alt="MasterHead" style="width:800px;height:200px;">
+</a>
 
 # 👋 Hi, I'm Bharath N!
 I'm a full-stack developer with a strong skill set in front-end and back-end technologies. I love building responsive web applications and learning new technologies every day. 
