@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/waran2337/waran2337/blob/main/linkedin%20banner-01.jpg)](https://rishavchanda.io)
+[![MasterHead](https://path_to_your_image/Create_an_updated_LinkedIn_banner_for_Bharath_N._T.png)](https://rishavchanda.io)
 
 # 👋 Hi, I'm Bharath N!
 I'm a full-stack developer with a strong skill set in front-end and back-end technologies. I love building responsive web applications and learning new technologies every day. 
