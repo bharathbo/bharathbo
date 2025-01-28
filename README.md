@@ -1,6 +1,4 @@
-<a href="https://bharathn-portfolio.vercel.app">
-    <img src="https://drive.google.com/uc?export=view&id=1U4xxabLT0idCYwqUQreJnhkrqQtCouKL" alt="MasterHead" style="width:700px;height:400px;">
-</a>
+
 
 # 👋 Hi, I'm Bharath N!
 I'm a full-stack developer with a strong skill set in front-end and back-end technologies.Dedicated and highly skilled IT professional with a Master's in Computer Applications (MCA) and a strong
